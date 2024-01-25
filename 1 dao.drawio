@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T16:10:51.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zIRkqrAEmdlriJiZm4R0" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T16:45:24.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="q0CTT-kZPTypoH8Bat4V" version="23.0.1" type="github">
   <diagram name="Trang-1" id="2EZCtL3xzMXU3lK0zrlj">
-    <mxGraphModel dx="2117" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2670" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yEjz1GES316k-qvI1ZW0-15" value="XLD, van hút, xung chờ 1 dao" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yEjz1GES316k-qvI1ZW0-15" value="XLD, van hút, xung&amp;nbsp; in 1 dao" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yEjz1GES316k-qvI1ZW0-17" value="m173" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
