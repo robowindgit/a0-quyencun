@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T08:59:49.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="N3z46L0z64JxV1FkQU1u" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T10:00:47.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DGt4V9b0OhtpjF6CyUO6" version="23.0.1" type="github">
   <diagram name="Trang-1" id="2EZCtL3xzMXU3lK0zrlj">
-    <mxGraphModel dx="2117" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2345" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,11 +256,6 @@
               <mxPoint x="-120" y="1162" />
               <mxPoint x="-120" y="110" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_ANgDKRX3L7Up_Faq1MD-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_ANgDKRX3L7Up_Faq1MD-21" vertex="1" connectable="0">
-          <mxGeometry x="-0.2608" y="9" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_ANgDKRX3L7Up_Faq1MD-23" value="dl d218&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_ANgDKRX3L7Up_Faq1MD-21" vertex="1" connectable="0">
