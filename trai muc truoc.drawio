@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T09:11:20.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YOSEA7tlJLa1-zguBanp" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T09:16:03.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gHT-Bs7Cx5vdKUoWd-MM" version="23.0.1" type="github">
   <diagram name="Trang-1" id="rS9DsyheVZtSrWm2MO88">
-    <mxGraphModel dx="2117" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3172" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,6 +162,11 @@
         </mxCell>
         <mxCell id="X1f7La6pQHhVVc1zuQpS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V83BWBz1lvYCD9PXyuBC-60" target="X1f7La6pQHhVVc1zuQpS-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1f7La6pQHhVVc1zuQpS-17" value="m8029" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X1f7La6pQHhVVc1zuQpS-8">
+          <mxGeometry x="0.2869" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V83BWBz1lvYCD9PXyuBC-60" value="dao, van hút(ck), DBD" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="192.12" y="990" width="120" height="60" as="geometry" />
