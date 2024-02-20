@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T08:38:07.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nkLWDoVRfqkyZGZaH8VT" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T08:39:12.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="20dcT77miCMhe7rs8v23" version="22.1.21" type="github">
   <diagram name="Trang-1" id="kp891w1mlpmKAhkwXl1S">
     <mxGraphModel dx="2062" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="sRdTrmRnwQMM6a8bkQbD-6" value="đếm thiếu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sRdTrmRnwQMM6a8bkQbD-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1208" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-146" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fYEVkzBCLe9LJyRCvu0--17" value="nhanh 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sRdTrmRnwQMM6a8bkQbD-5" vertex="1" connectable="0">
@@ -115,9 +115,9 @@
         <mxCell id="P4S6WRVzqaJMqRuNfIUs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="im__YNONFGmedxCCDfSG-34" target="P4S6WRVzqaJMqRuNfIUs-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P4S6WRVzqaJMqRuNfIUs-18" value="dem thieu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4S6WRVzqaJMqRuNfIUs-16">
+        <mxCell id="P4S6WRVzqaJMqRuNfIUs-18" value="dem du" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P4S6WRVzqaJMqRuNfIUs-16">
           <mxGeometry x="-0.1826" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="im__YNONFGmedxCCDfSG-34" value="counter, dao, XLD, van hút(Off XLH, On Dao)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -262,7 +262,7 @@
           <mxGeometry x="177.62" y="1078" width="108.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4S6WRVzqaJMqRuNfIUs-35" value="nhanh 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="940" width="70" height="30" as="geometry" />
+          <mxGeometry x="160" y="930" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
