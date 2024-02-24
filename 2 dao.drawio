@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T09:14:09.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rnZdBy0QeJdQch9KWusO" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T09:15:17.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-y1ma3D8ogaEsOMg3Qlm" version="23.1.6" type="github">
   <diagram name="Trang-1" id="1H3SK76nEYsDpkZw7GPR">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,6 +116,14 @@
         <mxCell id="hQP3FQ12rukSdfMBOgLU-61" value="nhanh 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="580" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6J5FOC5wHPRJW0wVc9_d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hQP3FQ12rukSdfMBOgLU-64" target="hQP3FQ12rukSdfMBOgLU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6J5FOC5wHPRJW0wVc9_d-21" value="dl d218" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6J5FOC5wHPRJW0wVc9_d-20">
+          <mxGeometry x="-0.925" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hQP3FQ12rukSdfMBOgLU-64" value="dl d218" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="630" width="92.5" height="30" as="geometry" />
         </mxCell>
@@ -131,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4lIK1VwBoBtm0wZslQfW-20" value="end" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="246" y="720" width="109" height="40" as="geometry" />
+          <mxGeometry x="245.5" y="740" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6J5FOC5wHPRJW0wVc9_d-1" value="(Off van)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="767.5" width="90" height="40" as="geometry" />
